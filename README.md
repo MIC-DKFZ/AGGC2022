@@ -13,6 +13,9 @@ And you must give credit to the submission paper:
 Maximilian Fischer, Lukas Klein, Lars Krämer, Sebastian Ziegler: Semi-supervised automated Gleason Grading on WSI. AGGC Challenge 2022
 ```
 
+## Download Model
+Please download the pretrained model via the following link: https://zenodo.org/records/10986699
+
 The submitted model achieved an overall accuracy throughout the test set of 0.7131. 
 <img src="assets/Rankings.png"/>
 

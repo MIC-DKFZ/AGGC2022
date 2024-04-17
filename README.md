@@ -37,4 +37,4 @@ Please make sure that your usage of this code is in compliance with its
 <img src="assets/HI_Logo.png" height="100px" />
 
 ## Acknowledgements
-This work was partially funded by Helmholtz Imaging (HI), a platform of the Helmholtz Incubator on Information and Data Science and by the Research Campus M2OLIE, which was funded by the German Federal Ministry of Education and Research (BMBF) within the Framework “Forschungscampus: Public-private partnership for Innovations” under the funding code 13GW0388A.
+This work was partially funded by Helmholtz Imaging (HI), a platform of the Helmholtz Incubator on Information and Data Science, by the Research Campus M2OLIE, which was funded by the German Federal Ministry of Education and Research (BMBF) within the Framework “Forschungscampus: Public-private partnership for Innovations” under the funding code 13GW0388A, by DKTK Joint Funding UPGRADE, Project “Subtyping of pancreatic cancer based on radiographic and pathological features“(SUBPAN), and by the Deutsche Forschungsgemeinschaft (DFG,German Research Foundation) under the grant 410981386.
